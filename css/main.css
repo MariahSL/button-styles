@@ -28,11 +28,11 @@ div {
   background-color: #000;
 }
 
-.btn small {
+.btn-small {
   font-size: .875rem;
 }
 
-.btn big {
+.btn-big {
   font-size: 1.5rem;
 }
 
